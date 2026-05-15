@@ -1,0 +1,11 @@
+2026-05-16 02:02:22,992 | WARNING | MT5 credentials are not configured
+2026-05-16 02:02:22,993 | INFO | XAUUSD AI Scalper started at 2026-05-16T02:02:22.993116
+2026-05-16 02:02:22,993 | INFO | MT5 connected: False
+2026-05-16 02:02:22,997 | INFO | Signal generated: HOLD confidence=0.0 reason=Confidence below threshold: 0.0
+2026-05-16 02:02:22,997 | INFO | XAUUSD AI Scalper stopped
+2026-05-16 02:06:14,194 | WARNING | MT5 credentials are not configured
+2026-05-16 02:06:14,194 | INFO | XAUUSD AI Scalper started at 2026-05-16T02:06:14.194883
+2026-05-16 02:06:14,195 | INFO | MT5 connected: False
+2026-05-16 02:06:14,197 | INFO | Signal generated: HOLD confidence=0.0 reason=Confidence below threshold: 0.0
+2026-05-16 02:06:25,387 | INFO | Shutdown requested by user
+2026-05-16 02:06:25,388 | INFO | XAUUSD AI Scalper stopped

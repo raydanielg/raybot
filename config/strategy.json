@@ -1,0 +1,15 @@
+{
+  "candles": {
+    "history_count": 250
+  },
+  "indicators": {
+    "ema_fast": 50,
+    "ema_slow": 200,
+    "atr_period": 14
+  },
+  "execution": {
+    "atr_stop_multiplier": 1.5,
+    "atr_take_profit_multiplier": 2.5,
+    "max_spread_points": 50
+  }
+}

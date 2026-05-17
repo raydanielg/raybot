@@ -63,6 +63,40 @@ def get_settings():
     return jsonify({"settings": settings, "strategy": strategy})
 
 
+@app.route("/api/orders")
+def get_orders():
+    orders = load_json(DATA_DIR / "order_requests.json")
+    if isinstance(orders, dict):
+        orders = list(orders.values())
+    return jsonify({"orders": orders[:50]})  # Last 50 orders
+
+
+@app.route("/api/positions")
+def get_positions():
+    try:
+        import MetaTrader5 as mt5
+        if mt5.initialize():
+            positions = mt5.positions_get()
+            positions_data = []
+            if positions:
+                for pos in positions:
+                    positions_data.append({
+                        "ticket": pos.ticket,
+                        "symbol": pos.symbol,
+                        "type": "BUY" if pos.type == 0 else "SELL",
+                        "volume": pos.volume,
+                        "price_open": pos.price_open,
+                        "price_current": pos.price_current,
+                        "profit": pos.profit,
+                        "time": datetime.fromtimestamp(pos.time).isoformat()
+                    })
+            mt5.shutdown()
+            return jsonify({"positions": positions_data})
+        return jsonify({"positions": []})
+    except Exception as e:
+        return jsonify({"positions": [], "error": str(e)})
+
+
 if __name__ == "__main__":
     templates_dir = ROOT_DIR / "templates"
     templates_dir.mkdir(exist_ok=True)

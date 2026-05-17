@@ -950,5 +950,3045 @@
     "volume": 0.01,
     "strategy_id": "raybot-v1",
     "timestamp": "2026-05-17T08:54:25.153420"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.53,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:54:35.474184"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.96,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:54:45.796454"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.05,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:54:56.096714"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.32,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:06.397006"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:16.760595"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.77,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:27.091860"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.2,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:37.407108"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.26,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:47.702911"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.25,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:55:58.013515"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.0,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:56:08.320901"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.68,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:56:18.636730"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:56:28.944689"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:56:39.780638"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.95,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:56:50.100044"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.55,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:57:00.423343"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:57:10.739553"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.7,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:57:21.517969"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.15,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:57:31.828029"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.07,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:57:55.125619"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.52,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:05.436072"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.83,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:15.746372"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.19,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:26.056228"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.4,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:36.362530"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.08,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:46.720977"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.06,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:58:57.018513"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.08,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:07.331150"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.06,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:17.643013"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.9,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:27.942827"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.52,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:38.247726"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.52,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:48.579136"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.52,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T08:59:58.878467"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.24,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:00:09.191721"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.71,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:00:19.489111"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.53,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:00:29.787426"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.89,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:00:40.090546"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.4,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:00:50.420912"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.5,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:00.711804"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.21,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:11.013524"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.55,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:21.311524"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.19,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:31.681458"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.64,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:42.003686"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.27,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:01:52.304476"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:02.613093"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.93,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:12.913679"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.32,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:23.214347"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.15,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:33.593242"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.03,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:43.907901"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.07,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:02:54.218175"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.43,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:04.551475"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.49,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:14.848581"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.78,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:25.161035"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:35.468009"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.51,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:45.834771"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.98,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:03:56.154345"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.15,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:06.460140"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.33,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:16.780019"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.94,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:27.104665"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.56,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:37.436228"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.42,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:47.735751"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.36,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:04:58.032748"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.59,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:08.352538"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.01,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:18.659493"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.42,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:28.970694"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.72,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:39.271784"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.29,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:49.603205"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.3,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:05:59.903827"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.79,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:06:10.211147"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.96,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:06:20.511247"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.45,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:06:30.807719"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.54,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:06:41.115671"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.08,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:06:51.428658"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.62,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:01.738307"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.86,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:12.051367"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.73,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:22.432110"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.8,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:32.734482"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.84,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:43.043599"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.84,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:07:53.355935"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.78,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:03.711286"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.38,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:14.021165"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.82,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:24.323085"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.39,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:34.618285"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.9,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:44.921406"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.38,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:08:55.221559"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:05.526769"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.2,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:15.840284"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.62,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:26.150283"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.5,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:36.458349"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.25,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:46.765184"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.31,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:09:57.074239"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.92,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:07.393576"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.46,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:17.704150"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.14,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:28.007709"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.98,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:38.310505"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.82,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:48.616703"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.46,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:10:58.955191"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:11:09.273346"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.09,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:11:19.573500"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.0,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:11:29.881001"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.48,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:11:40.262455"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.14,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:11:50.570354"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.89,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:00.888141"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:11.187162"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.31,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:21.517090"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:31.825722"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.48,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:42.144505"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:12:52.474674"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:02.777933"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.31,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:13.111688"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.66,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:23.412115"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.56,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:33.715011"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.31,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:44.017721"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.45,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:13:54.333799"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.81,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:04.671862"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.34,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:14.976827"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.72,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:25.283729"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.95,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:35.596392"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.4,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:45.899329"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.77,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:14:56.205233"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:06.511144"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.14,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:16.803729"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.97,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:27.123226"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:37.432408"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:47.755326"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.97,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:15:58.070763"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:08.370352"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:18.689865"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:29.005585"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:39.353437"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.22,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:49.663817"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.01,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:16:59.967563"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:17:10.303307"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.54,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:17:20.604070"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.8,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:17:30.925435"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.36,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:17:41.221112"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.7,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:17:51.533038"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.36,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:01.835535"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.59,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:12.143687"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.29,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:24.849599"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.31,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:36.575405"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.23,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:46.938342"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:18:57.237842"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.73,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:19:07.661066"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.8,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:19:18.688753"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.1,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:19:28.983815"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.6,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:19:39.299288"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.63,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:19:49.614436"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.35,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:01.955409"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:12.263836"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.79,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:22.568863"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.14,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:33.007246"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.55,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:43.312760"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:20:53.619477"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:03.938404"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:14.245805"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:24.543770"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.49,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:34.839945"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.36,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:45.145998"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:21:55.452217"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.46,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:05.871835"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.57,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:16.175843"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:26.512764"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.79,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:36.816514"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.53,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:47.114974"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.64,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:22:57.425453"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.97,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:23:07.779750"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.27,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:23:18.113811"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:23:28.413660"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:23:38.711910"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.77,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:23:51.495255"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:01.803385"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:12.115951"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.25,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:22.412987"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.41,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:32.717894"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.86,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:43.022723"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.22,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:24:53.360474"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.01,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:03.667996"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.06,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:14.010593"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.72,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:24.315604"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:34.621848"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.65,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:47.453205"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.01,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:25:57.866810"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.22,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:26:08.823675"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:26:19.121492"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.32,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:26:32.383706"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.21,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:26:42.698801"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.68,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:26:53.000321"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.24,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:03.312698"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:13.614192"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.46,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:23.934246"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:34.271880"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.32,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:44.597496"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:27:54.910380"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.02,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:05.234262"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.69,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:15.533052"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.27,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:25.839267"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.99,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:36.157725"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.35,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:46.541714"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.51,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:28:56.843476"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.41,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:07.146589"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.39,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:17.483134"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.24,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:28.951105"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.97,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:39.261255"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.71,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:49.574352"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.96,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:29:59.952329"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.96,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:30:10.253858"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.7,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:30:20.568126"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.73,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:30:30.916607"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.4,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:30:41.215878"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.1,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:30:51.512039"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.71,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:01.821216"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.92,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:12.191659"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:22.507888"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.82,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:32.814721"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.27,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:43.123332"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.49,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:31:53.436386"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.13,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:03.830892"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.75,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:14.138186"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.46,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:24.442745"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.08,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:34.756199"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:45.067618"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.63,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:32:55.377987"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.07,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:05.693984"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:16.002678"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.57,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:26.353087"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.38,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:36.656442"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.07,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:47.152025"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.63,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:33:57.453167"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.48,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:07.750276"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.15,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:18.067527"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.77,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:28.378080"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.32,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:38.676500"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.86,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:48.987488"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:34:59.340723"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.96,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:35:09.655570"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.0,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:35:19.971613"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.52,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:35:30.281288"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.34,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:35:40.668165"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.54,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:35:50.972331"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.43,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:01.273535"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.12,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:11.598598"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.38,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:21.908386"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.25,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:32.216727"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2360.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:42.590903"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.75,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:36:52.921374"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.83,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:03.230408"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.33,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:13.551446"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.27,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:23.860442"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:34.175981"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.22,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:44.494140"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.61,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:37:54.815175"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.62,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:05.159131"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.07,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:15.473970"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.23,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:25.803438"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.6,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:36.238794"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.18,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:46.556008"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.68,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:38:56.862485"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2363.51,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:07.171617"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.67,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:17.473663"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.41,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:27.787190"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.2,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:38.094440"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.98,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:48.432667"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.22,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:39:58.750668"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.89,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:40:09.072280"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.79,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:40:19.374369"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:40:29.680409"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.82,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:40:40.033757"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.98,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:40:50.390819"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2356.97,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:00.697557"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:11.036478"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.93,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:21.354743"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:31.656663"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.19,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:41.968453"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.28,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:41:52.296191"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.17,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:02.603690"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.55,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:12.900563"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.05,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:23.228026"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.54,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:33.540202"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.6,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:43.870227"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.74,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:42:54.271295"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2353.85,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:04.593025"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.95,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:14.912302"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2358.84,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:25.231409"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.26,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:35.540045"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.6,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:45.845956"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.35,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:43:56.190592"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.24,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:06.518727"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.01,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:16.831574"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.51,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:27.150768"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2367.44,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:37.473477"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.91,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:47.792229"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.81,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:44:58.100927"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2354.47,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:45:08.440044"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.68,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:45:18.744923"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2359.38,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:45:29.045300"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2362.67,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:45:39.389791"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2357.26,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:45:49.696454"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2365.48,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:00.030782"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2361.66,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:10.347035"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.48,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:20.645774"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.69,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:30.976635"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "SELL",
+    "action": "SELL",
+    "price": 2355.94,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:41.291233"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2352.16,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:46:51.619200"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2364.13,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:47:01.924693"
+  },
+  {
+    "symbol": "EURUSD",
+    "side": "BUY",
+    "action": "BUY",
+    "price": 2366.11,
+    "lot_size": 0.01,
+    "volume": 0.01,
+    "strategy_id": "raybot-v1",
+    "timestamp": "2026-05-17T09:47:12.243859"
   }
 ]

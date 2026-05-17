@@ -9,3 +9,656 @@
 2026-05-16 02:06:14,197 | INFO | Signal generated: HOLD confidence=0.0 reason=Confidence below threshold: 0.0
 2026-05-16 02:06:25,387 | INFO | Shutdown requested by user
 2026-05-16 02:06:25,388 | INFO | XAUUSD AI Scalper stopped
+2026-05-17 10:54:04,848 | WARNING | MT5 credentials are not configured
+2026-05-17 10:54:04,849 | INFO | XAUUSD AI Scalper started at 2026-05-17T10:54:04.849283
+2026-05-17 10:54:04,849 | INFO | MT5 connected: False
+2026-05-17 10:54:04,858 | INFO | Signal generated: HOLD confidence=0.0 reason=Confidence below threshold: 0.0
+2026-05-17 10:55:04,860 | INFO | Signal generated: HOLD confidence=0.0 reason=Confidence below threshold: 0.0
+2026-05-17 10:55:05,704 | INFO | Signal stored: XAUUSD HOLD @ 2364.54 (confidence=0.45)
+2026-05-17 10:55:26,870 | INFO | Shutdown requested by user
+2026-05-17 10:55:26,870 | INFO | XAUUSD AI Scalper stopped
+2026-05-17 10:55:29,706 | INFO | Signal stored: XAUUSD BUY @ 2356.04 (confidence=0.71)
+2026-05-17 10:55:29,708 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 10:57:15,808 | INFO | Signal stored: XAUUSD SELL @ 2360.21 (confidence=0.72)
+2026-05-17 10:57:15,810 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:04:51,436 | INFO | Signal stored: XAUUSD SELL @ 2355.01 (confidence=0.74)
+2026-05-17 11:04:51,438 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:06:23,387 | INFO | Signal stored: XAUUSD HOLD @ 2352.18 (confidence=0.45)
+2026-05-17 11:31:10,074 | INFO | XAUUSD Scalper started at 2026-05-17T08:31:10.074400
+2026-05-17 11:31:19,992 | INFO | XAUUSD Scalper started at 2026-05-17T08:31:19.992516
+2026-05-17 11:31:30,712 | INFO | XAUUSD Scalper started at 2026-05-17T08:31:30.712352
+2026-05-17 11:31:30,713 | INFO | Signal stored: XAUUSD HOLD @ 2361.38 (confidence=0.33)
+2026-05-17 11:31:30,714 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:31:30,714 | INFO | XAUUSD Scalper stopped
+2026-05-17 11:31:38,094 | INFO | XAUUSD Scalper started at 2026-05-17T08:31:38.094731
+2026-05-17 11:31:38,095 | INFO | Signal stored: XAUUSD HOLD @ 2364.91 (confidence=0.33)
+2026-05-17 11:31:38,096 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:31:48,098 | INFO | Signal stored: XAUUSD HOLD @ 2354.43 (confidence=0.33)
+2026-05-17 11:31:48,099 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:31:58,100 | INFO | Signal stored: XAUUSD HOLD @ 2352.15 (confidence=0.33)
+2026-05-17 11:31:58,101 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:08,102 | INFO | Signal stored: XAUUSD HOLD @ 2358.17 (confidence=0.33)
+2026-05-17 11:32:08,103 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:18,105 | INFO | Signal stored: XAUUSD HOLD @ 2352.58 (confidence=0.33)
+2026-05-17 11:32:18,105 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:28,107 | INFO | Signal stored: XAUUSD HOLD @ 2354.53 (confidence=0.33)
+2026-05-17 11:32:28,108 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:38,110 | INFO | Signal stored: XAUUSD HOLD @ 2361.57 (confidence=0.33)
+2026-05-17 11:32:38,110 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:48,112 | INFO | Signal stored: XAUUSD HOLD @ 2360.17 (confidence=0.33)
+2026-05-17 11:32:48,113 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:32:58,115 | INFO | Signal stored: XAUUSD HOLD @ 2357.08 (confidence=0.33)
+2026-05-17 11:32:58,116 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:33:08,118 | INFO | Signal stored: XAUUSD HOLD @ 2360.99 (confidence=0.33)
+2026-05-17 11:33:08,119 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:33:18,121 | INFO | Signal stored: XAUUSD HOLD @ 2367.87 (confidence=0.35)
+2026-05-17 11:33:18,121 | INFO | Signal generated: HOLD confidence=0.35 reason=Neutral signal - conflicting strategies (confidence below 70.0)
+2026-05-17 11:34:03,483 | INFO | MT5 connected to account 515265607
+2026-05-17 11:34:03,484 | INFO | XAUUSD Scalper started at 2026-05-17T08:34:03.484745
+2026-05-17 11:34:03,486 | INFO | Signal stored: XAUUSD HOLD @ 2365.34 (confidence=0.33)
+2026-05-17 11:34:03,486 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:34:03,486 | WARNING | Failed to update equity data: 'AccountInfo' object has no attribute 'positions'
+2026-05-17 11:34:13,488 | INFO | Signal stored: XAUUSD HOLD @ 2354.27 (confidence=0.33)
+2026-05-17 11:34:13,488 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:34:13,489 | WARNING | Failed to update equity data: 'AccountInfo' object has no attribute 'positions'
+2026-05-17 11:34:23,490 | INFO | Signal stored: XAUUSD HOLD @ 2361.95 (confidence=0.33)
+2026-05-17 11:34:23,491 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:34:23,491 | WARNING | Failed to update equity data: 'AccountInfo' object has no attribute 'positions'
+2026-05-17 11:34:33,493 | INFO | Signal stored: XAUUSD HOLD @ 2356.62 (confidence=0.33)
+2026-05-17 11:34:33,494 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:34:33,494 | WARNING | Failed to update equity data: 'AccountInfo' object has no attribute 'positions'
+2026-05-17 11:34:43,497 | INFO | Signal stored: XAUUSD HOLD @ 2356.38 (confidence=0.35)
+2026-05-17 11:34:43,497 | INFO | Signal generated: HOLD confidence=0.35 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:34:43,497 | WARNING | Failed to update equity data: 'AccountInfo' object has no attribute 'positions'
+2026-05-17 11:35:06,834 | INFO | MT5 connected to account 515265607
+2026-05-17 11:35:06,836 | INFO | XAUUSD Scalper started at 2026-05-17T08:35:06.836296
+2026-05-17 11:35:06,837 | INFO | Signal stored: XAUUSD HOLD @ 2366.79 (confidence=0.33)
+2026-05-17 11:35:06,838 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:35:16,841 | INFO | Signal stored: XAUUSD HOLD @ 2356.39 (confidence=0.33)
+2026-05-17 11:35:16,841 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:35:26,844 | INFO | Signal stored: XAUUSD HOLD @ 2357.03 (confidence=0.33)
+2026-05-17 11:35:26,844 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:35:47,917 | INFO | MT5 connected to account 515265607
+2026-05-17 11:35:47,918 | INFO | XAUUSD Scalper started at 2026-05-17T08:35:47.918598
+2026-05-17 11:35:47,919 | INFO | Signal stored: XAUUSD HOLD @ 2366.23 (confidence=0.35)
+2026-05-17 11:35:47,920 | INFO | Signal generated: HOLD confidence=0.35 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:35:57,922 | INFO | Signal stored: XAUUSD HOLD @ 2357.35 (confidence=0.33)
+2026-05-17 11:35:57,922 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:36:07,926 | INFO | Signal stored: XAUUSD HOLD @ 2357.24 (confidence=0.35)
+2026-05-17 11:36:07,926 | INFO | Signal generated: HOLD confidence=0.35 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:36:17,929 | INFO | Signal stored: XAUUSD HOLD @ 2352.98 (confidence=0.33)
+2026-05-17 11:36:17,929 | INFO | Signal generated: HOLD confidence=0.33 reason=Neutral signal - conflicting strategies (confidence below 30.0)
+2026-05-17 11:36:35,420 | INFO | MT5 connected to account 515265607
+2026-05-17 11:36:35,422 | INFO | XAUUSD Scalper started at 2026-05-17T08:36:35.422582
+2026-05-17 11:36:35,425 | INFO | Signal stored: XAUUSD HOLD @ 2366.05 (confidence=0.50)
+2026-05-17 11:36:35,425 | INFO | Signal generated: HOLD confidence=0.5 reason=Buy bias (1 vs 0) (confidence below 30.0)
+2026-05-17 11:36:45,428 | INFO | Signal stored: XAUUSD HOLD @ 2360.55 (confidence=0.50)
+2026-05-17 11:36:45,428 | INFO | Signal generated: HOLD confidence=0.5 reason=Buy bias (1 vs 0) (confidence below 30.0)
+2026-05-17 11:36:55,430 | INFO | Signal stored: XAUUSD HOLD @ 2354.18 (confidence=0.50)
+2026-05-17 11:36:55,431 | INFO | Signal generated: HOLD confidence=0.5 reason=Buy bias (1 vs 0) (confidence below 30.0)
+2026-05-17 11:37:13,892 | INFO | MT5 connected to account 515265607
+2026-05-17 11:37:13,894 | INFO | XAUUSD Scalper started at 2026-05-17T08:37:13.894514
+2026-05-17 11:37:13,896 | INFO | Signal stored: XAUUSD BUY @ 2364.94 (confidence=0.50)
+2026-05-17 11:37:13,897 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:37:25,419 | INFO | MT5 connected to account 515265607
+2026-05-17 11:37:25,421 | INFO | XAUUSD Scalper started at 2026-05-17T08:37:25.421262
+2026-05-17 11:37:25,423 | INFO | Signal stored: XAUUSD SELL @ 2355.64 (confidence=0.50)
+2026-05-17 11:37:25,423 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:37:42,284 | INFO | MT5 connected to account 515265607
+2026-05-17 11:37:42,285 | INFO | XAUUSD Scalper started at 2026-05-17T08:37:42.285673
+2026-05-17 11:37:42,287 | INFO | Signal stored: XAUUSD SELL @ 2359.42 (confidence=0.50)
+2026-05-17 11:37:42,287 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:37:42,289 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:37:42,290 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:37:52,293 | INFO | Signal stored: XAUUSD BUY @ 2358.77 (confidence=0.50)
+2026-05-17 11:37:52,293 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:37:52,295 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:37:52,296 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:38:02,299 | INFO | Signal stored: XAUUSD SELL @ 2363.35 (confidence=0.50)
+2026-05-17 11:38:02,299 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:38:02,301 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:02,302 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:12,305 | INFO | Signal stored: XAUUSD SELL @ 2357.86 (confidence=0.50)
+2026-05-17 11:38:12,305 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:38:12,308 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:12,308 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:22,310 | INFO | Signal stored: XAUUSD SELL @ 2367.48 (confidence=0.50)
+2026-05-17 11:38:22,310 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:38:22,312 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:22,313 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:32,316 | INFO | Signal stored: XAUUSD BUY @ 2352.95 (confidence=0.50)
+2026-05-17 11:38:32,317 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:38:32,319 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:38:32,320 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:38:42,324 | INFO | Signal stored: XAUUSD SELL @ 2361.06 (confidence=0.50)
+2026-05-17 11:38:42,325 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:38:42,329 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:42,330 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:38:52,333 | INFO | Signal stored: XAUUSD BUY @ 2366.53 (confidence=0.50)
+2026-05-17 11:38:52,333 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:38:52,337 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:38:52,337 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:39:02,340 | INFO | Signal stored: XAUUSD SELL @ 2355.88 (confidence=0.50)
+2026-05-17 11:39:02,341 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:39:02,353 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:02,353 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:12,356 | INFO | Signal stored: XAUUSD BUY @ 2360.89 (confidence=0.50)
+2026-05-17 11:39:12,356 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:39:12,358 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:39:12,359 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:39:22,362 | INFO | Signal stored: XAUUSD SELL @ 2365.54 (confidence=0.50)
+2026-05-17 11:39:22,362 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:39:22,365 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:22,366 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:32,369 | INFO | Signal stored: XAUUSD SELL @ 2367.06 (confidence=0.50)
+2026-05-17 11:39:32,369 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:39:32,372 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:32,372 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:42,375 | INFO | Signal stored: XAUUSD SELL @ 2355.80 (confidence=0.50)
+2026-05-17 11:39:42,375 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:39:42,379 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:42,379 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:39:52,382 | INFO | Signal stored: XAUUSD BUY @ 2354.40 (confidence=0.50)
+2026-05-17 11:39:52,382 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:39:52,386 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:39:52,387 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:40:02,389 | INFO | Signal stored: XAUUSD SELL @ 2361.85 (confidence=0.50)
+2026-05-17 11:40:02,389 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:40:02,392 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:02,392 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:12,394 | INFO | Signal stored: XAUUSD SELL @ 2367.22 (confidence=0.50)
+2026-05-17 11:40:12,395 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:40:12,399 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:12,400 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:22,402 | INFO | Signal stored: XAUUSD BUY @ 2366.36 (confidence=0.50)
+2026-05-17 11:40:22,402 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:40:22,405 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:40:22,405 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:40:32,407 | INFO | Signal stored: XAUUSD SELL @ 2357.24 (confidence=0.50)
+2026-05-17 11:40:32,408 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:40:32,410 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:32,411 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:42,413 | INFO | Signal stored: XAUUSD BUY @ 2362.06 (confidence=0.50)
+2026-05-17 11:40:42,413 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:40:42,415 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:40:42,415 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:40:52,418 | INFO | Signal stored: XAUUSD SELL @ 2359.34 (confidence=0.50)
+2026-05-17 11:40:52,418 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:40:52,420 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:40:52,421 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:41:02,423 | INFO | Signal stored: XAUUSD BUY @ 2356.46 (confidence=0.50)
+2026-05-17 11:41:02,424 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:41:02,426 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:41:02,426 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:41:12,429 | INFO | Signal stored: XAUUSD BUY @ 2362.36 (confidence=0.50)
+2026-05-17 11:41:12,429 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:41:12,431 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:41:12,431 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:41:22,435 | INFO | Signal stored: XAUUSD SELL @ 2355.08 (confidence=0.50)
+2026-05-17 11:41:22,435 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:41:22,437 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:41:22,438 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:41:32,441 | INFO | Signal stored: XAUUSD SELL @ 2357.89 (confidence=0.50)
+2026-05-17 11:41:32,442 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:41:32,444 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:41:32,445 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:41:42,447 | INFO | Signal stored: XAUUSD BUY @ 2366.16 (confidence=0.50)
+2026-05-17 11:41:42,448 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:41:42,450 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:41:42,451 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:04,242 | INFO | MT5 connected to account 515265607
+2026-05-17 11:42:04,244 | INFO | XAUUSD Scalper started at 2026-05-17T08:42:04.244423
+2026-05-17 11:42:04,246 | INFO | Signal stored: XAUUSD SELL @ 2363.21 (confidence=0.50)
+2026-05-17 11:42:04,246 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:42:04,247 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:04,249 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:42:04,250 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:42:14,252 | INFO | Signal stored: XAUUSD BUY @ 2366.35 (confidence=0.50)
+2026-05-17 11:42:14,252 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:42:14,253 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:14,254 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:14,254 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:24,257 | INFO | Signal stored: XAUUSD BUY @ 2364.22 (confidence=0.50)
+2026-05-17 11:42:24,258 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:42:24,258 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:24,260 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:24,260 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:30,070 | INFO | MT5 connected to account 515265607
+2026-05-17 11:42:30,072 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:42:30,111 | INFO | Available symbols: ['EURUSD', 'GBPUSD', 'USDJPY', 'EURGBP', 'AUDUSD', 'EURJPY', 'GBPJPY', 'USDCAD', 'NZDUSD', 'AUDCHF']
+2026-05-17 11:42:30,112 | INFO | XAUUSD Scalper started at 2026-05-17T08:42:30.112819
+2026-05-17 11:42:30,115 | INFO | Signal stored: XAUUSD BUY @ 2364.42 (confidence=0.50)
+2026-05-17 11:42:30,115 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:42:30,117 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:30,119 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:30,119 | INFO | Order request emitted: XAUUSD BUY 0.01 lots
+2026-05-17 11:42:40,121 | INFO | Signal stored: XAUUSD SELL @ 2353.73 (confidence=0.50)
+2026-05-17 11:42:40,122 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:42:40,123 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:40,124 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:42:40,124 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:42:50,126 | INFO | Signal stored: XAUUSD SELL @ 2359.87 (confidence=0.50)
+2026-05-17 11:42:50,127 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:42:50,128 | WARNING | Symbol info not available for XAUUSD
+2026-05-17 11:42:50,130 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:42:50,131 | INFO | Order request emitted: XAUUSD SELL 0.01 lots
+2026-05-17 11:43:10,581 | INFO | MT5 connected to account 515265607
+2026-05-17 11:43:10,581 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:43:10,607 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:43:10,608 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:43:10,609 | INFO | XAUUSD Scalper started at 2026-05-17T08:43:10.609786
+2026-05-17 11:43:10,611 | INFO | Signal stored: GBXAUD SELL @ 2353.19 (confidence=0.50)
+2026-05-17 11:43:10,612 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:43:10,661 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.0, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:43:10,663 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:43:10,664 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:43:20,666 | INFO | Signal stored: GBXAUD BUY @ 2360.54 (confidence=0.50)
+2026-05-17 11:43:20,666 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:43:20,670 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:43:20,672 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:20,672 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:30,675 | INFO | Signal stored: GBXAUD BUY @ 2362.60 (confidence=0.50)
+2026-05-17 11:43:30,675 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:43:30,679 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:43:30,680 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:30,681 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:40,683 | INFO | Signal stored: GBXAUD BUY @ 2358.14 (confidence=0.50)
+2026-05-17 11:43:40,684 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:43:40,688 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:43:40,690 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:40,690 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:43:58,429 | INFO | MT5 connected to account 515265607
+2026-05-17 11:43:58,430 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:43:58,456 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:43:58,457 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:43:58,458 | INFO | XAUUSD Scalper started at 2026-05-17T08:43:58.458566
+2026-05-17 11:43:58,460 | INFO | Signal stored: GBXAUD SELL @ 2357.80 (confidence=0.50)
+2026-05-17 11:43:58,461 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:43:58,462 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:43:58,462 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:43:58,464 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:43:58,464 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:08,467 | INFO | Signal stored: GBXAUD BUY @ 2352.34 (confidence=0.50)
+2026-05-17 11:44:08,467 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:44:08,468 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:08,469 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:08,471 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:44:08,471 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:44:18,474 | INFO | Signal stored: GBXAUD BUY @ 2366.89 (confidence=0.50)
+2026-05-17 11:44:18,476 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:44:18,477 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:18,488 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:18,491 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:44:18,505 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:44:28,508 | INFO | Signal stored: GBXAUD SELL @ 2359.04 (confidence=0.50)
+2026-05-17 11:44:28,508 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:44:28,509 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:28,510 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:28,511 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:28,512 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:38,515 | INFO | Signal stored: GBXAUD SELL @ 2367.15 (confidence=0.50)
+2026-05-17 11:44:38,528 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:44:38,586 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:38,610 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:38,613 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:38,614 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:48,617 | INFO | Signal stored: GBXAUD SELL @ 2365.43 (confidence=0.50)
+2026-05-17 11:44:48,617 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:44:48,619 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:48,619 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:48,623 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:48,624 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:44:58,627 | INFO | Signal stored: GBXAUD BUY @ 2362.75 (confidence=0.50)
+2026-05-17 11:44:58,628 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:44:58,629 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:44:58,629 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:44:58,631 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:44:58,632 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:08,635 | INFO | Signal stored: GBXAUD BUY @ 2352.22 (confidence=0.50)
+2026-05-17 11:45:08,636 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:45:08,637 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:45:08,638 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:45:08,641 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:08,641 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:18,644 | INFO | Signal stored: GBXAUD SELL @ 2363.67 (confidence=0.50)
+2026-05-17 11:45:18,644 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:45:18,645 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:45:18,646 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:45:18,648 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:45:18,648 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:45:28,650 | INFO | Signal stored: GBXAUD SELL @ 2361.11 (confidence=0.50)
+2026-05-17 11:45:28,651 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:45:28,652 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:45:28,652 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:45:28,654 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:45:28,654 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:45:38,658 | INFO | Signal stored: GBXAUD BUY @ 2360.26 (confidence=0.50)
+2026-05-17 11:45:38,659 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:45:38,660 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:45:38,660 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:45:38,662 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:38,662 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:48,665 | INFO | Signal stored: GBXAUD BUY @ 2364.67 (confidence=0.50)
+2026-05-17 11:45:48,665 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:45:48,666 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:45:48,667 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:45:48,669 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:45:48,669 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:46:11,045 | INFO | MT5 connected to account 515265607
+2026-05-17 11:46:11,046 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:46:11,074 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:46:11,075 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:46:11,076 | INFO | XAUUSD Scalper started at 2026-05-17T08:46:11.076736
+2026-05-17 11:46:11,079 | INFO | Signal stored: GBXAUD BUY @ 2360.12 (confidence=0.50)
+2026-05-17 11:46:11,080 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:46:11,081 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:46:11,081 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:46:11,083 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:46:11,083 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:46:21,086 | INFO | Signal stored: GBXAUD SELL @ 2365.12 (confidence=0.50)
+2026-05-17 11:46:21,087 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:46:21,088 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:46:21,088 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:46:21,089 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:46:21,090 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:46:31,092 | INFO | Signal stored: GBXAUD BUY @ 2364.07 (confidence=0.50)
+2026-05-17 11:46:31,093 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:46:31,094 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:46:31,094 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:46:31,096 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:46:31,096 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:46:41,099 | INFO | Signal stored: GBXAUD SELL @ 2359.55 (confidence=0.50)
+2026-05-17 11:46:41,099 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:46:41,100 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:46:41,100 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:46:41,102 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:46:41,102 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:46:51,105 | INFO | Signal stored: GBXAUD SELL @ 2355.82 (confidence=0.50)
+2026-05-17 11:46:51,105 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:46:51,106 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:46:51,106 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:46:51,108 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:46:51,108 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:01,111 | INFO | Signal stored: GBXAUD SELL @ 2361.94 (confidence=0.50)
+2026-05-17 11:47:01,111 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:47:01,113 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:47:01,114 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:47:01,115 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:01,116 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:11,118 | INFO | Signal stored: GBXAUD SELL @ 2355.45 (confidence=0.50)
+2026-05-17 11:47:11,118 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:47:11,119 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:47:11,119 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:47:11,121 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:11,121 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:38,767 | INFO | MT5 connected to account 515265607
+2026-05-17 11:47:38,767 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:47:38,796 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:47:38,796 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:47:38,798 | INFO | XAUUSD Scalper started at 2026-05-17T08:47:38.798601
+2026-05-17 11:47:38,802 | INFO | Signal stored: GBXAUD SELL @ 2361.77 (confidence=0.50)
+2026-05-17 11:47:38,802 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:47:38,804 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:47:38,804 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:47:38,806 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:38,807 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:48,809 | INFO | Signal stored: GBXAUD BUY @ 2358.66 (confidence=0.50)
+2026-05-17 11:47:48,810 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:47:48,811 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:47:48,811 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:47:48,813 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:47:48,813 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:47:58,816 | INFO | Signal stored: GBXAUD SELL @ 2365.30 (confidence=0.50)
+2026-05-17 11:47:58,817 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:47:58,818 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:47:58,818 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:47:58,820 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:47:58,820 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:48:08,822 | INFO | Signal stored: GBXAUD BUY @ 2358.76 (confidence=0.50)
+2026-05-17 11:48:08,822 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:48:08,823 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:48:08,823 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:48:08,825 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:08,825 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:32,624 | INFO | MT5 connected to account 515265607
+2026-05-17 11:48:32,624 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:48:32,649 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:48:32,649 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:48:32,651 | INFO | XAUUSD Scalper started at 2026-05-17T08:48:32.651357
+2026-05-17 11:48:32,654 | INFO | Signal stored: GBXAUD BUY @ 2362.92 (confidence=0.50)
+2026-05-17 11:48:32,654 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:48:32,655 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:48:32,657 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:48:32,657 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:48:32,659 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:32,660 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:42,665 | INFO | Signal stored: GBXAUD BUY @ 2354.49 (confidence=0.50)
+2026-05-17 11:48:42,665 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:48:42,666 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:48:42,667 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:48:42,667 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:48:42,670 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:42,670 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:48:52,673 | INFO | Signal stored: GBXAUD SELL @ 2359.64 (confidence=0.50)
+2026-05-17 11:48:52,673 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:48:52,674 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:48:52,681 | WARNING | [FAILED] MT5 Trade failed: 10027 - AutoTrading disabled by client
+2026-05-17 11:48:52,681 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:48:52,683 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:48:52,684 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:49:02,687 | INFO | Signal stored: GBXAUD BUY @ 2364.32 (confidence=0.50)
+2026-05-17 11:49:02,687 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:49:02,688 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:02,689 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:02,689 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:02,692 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:02,693 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:12,696 | INFO | Signal stored: GBXAUD BUY @ 2354.15 (confidence=0.50)
+2026-05-17 11:49:12,696 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:49:12,697 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:12,698 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:12,698 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:12,701 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:12,701 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:22,704 | INFO | Signal stored: GBXAUD BUY @ 2360.63 (confidence=0.50)
+2026-05-17 11:49:22,705 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:49:22,706 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:22,707 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:22,707 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:22,709 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:22,710 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:32,713 | INFO | Signal stored: GBXAUD BUY @ 2362.84 (confidence=0.50)
+2026-05-17 11:49:32,714 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:49:32,715 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:32,716 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:32,716 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:32,720 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:32,721 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:42,724 | INFO | Signal stored: GBXAUD BUY @ 2352.65 (confidence=0.50)
+2026-05-17 11:49:42,738 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:49:42,739 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:42,744 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:42,745 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:42,747 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:42,747 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:49:52,750 | INFO | Signal stored: GBXAUD SELL @ 2359.11 (confidence=0.50)
+2026-05-17 11:49:52,750 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:49:52,751 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:49:52,751 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:49:52,752 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:49:52,753 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:49:52,754 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:50:02,756 | INFO | Signal stored: GBXAUD BUY @ 2362.55 (confidence=0.50)
+2026-05-17 11:50:02,756 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:50:02,757 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:50:02,758 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:50:02,758 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:50:02,760 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:02,760 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:12,763 | INFO | Signal stored: GBXAUD BUY @ 2362.17 (confidence=0.50)
+2026-05-17 11:50:12,764 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:50:12,765 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:50:12,765 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:50:12,766 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:50:12,768 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:12,769 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:33,544 | INFO | MT5 connected to account 515265607
+2026-05-17 11:50:33,545 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:50:33,573 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:50:33,573 | INFO | Selected symbol: GBXAUD
+2026-05-17 11:50:33,574 | INFO | XAUUSD Scalper started at 2026-05-17T08:50:33.574642
+2026-05-17 11:50:33,576 | INFO | Signal stored: GBXAUD SELL @ 2355.93 (confidence=0.50)
+2026-05-17 11:50:33,577 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:50:33,578 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:50:33,586 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:50:33,586 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 1, 'price': 0.01862, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:50:33,588 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:50:33,588 | INFO | Order request emitted: GBXAUD SELL 0.01 lots
+2026-05-17 11:50:43,592 | INFO | Signal stored: GBXAUD BUY @ 2354.26 (confidence=0.50)
+2026-05-17 11:50:43,592 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:50:43,593 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:50:43,594 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:50:43,594 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:50:43,597 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:43,597 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:53,601 | INFO | Signal stored: GBXAUD BUY @ 2364.01 (confidence=0.50)
+2026-05-17 11:50:53,602 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:50:53,604 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:50:53,605 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:50:53,605 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:50:53,607 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:50:53,608 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:51:03,611 | INFO | Signal stored: GBXAUD BUY @ 2366.68 (confidence=0.50)
+2026-05-17 11:51:03,611 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:51:03,612 | INFO | Symbol GBXAUD - Trade mode: 0, Visible: True
+2026-05-17 11:51:03,612 | WARNING | [FAILED] MT5 Trade failed: 10017 - Trade disabled
+2026-05-17 11:51:03,613 | WARNING |    Request: {'action': 1, 'symbol': 'GBXAUD', 'volume': 0.01, 'type': 0, 'price': 0.01865, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:51:03,615 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:51:03,615 | INFO | Order request emitted: GBXAUD BUY 0.01 lots
+2026-05-17 11:51:28,336 | INFO | MT5 connected to account 515265607
+2026-05-17 11:51:28,337 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:51:28,367 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:51:28,367 | INFO | Selected symbol: GOLD
+2026-05-17 11:51:28,369 | INFO | XAUUSD Scalper started at 2026-05-17T08:51:28.369057
+2026-05-17 11:51:28,372 | INFO | Signal stored: GOLD SELL @ 2367.06 (confidence=0.50)
+2026-05-17 11:51:28,373 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:51:28,374 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:51:28,374 | WARNING | [FAILED] MT5 Trade failed: 10030 - Unsupported filling mode
+2026-05-17 11:51:28,374 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 1, 'price': 0.0, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:51:28,376 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:51:28,377 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:51:38,379 | INFO | Signal stored: GOLD BUY @ 2358.70 (confidence=0.50)
+2026-05-17 11:51:38,379 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:51:38,380 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:51:38,381 | WARNING | [FAILED] MT5 Trade failed: 10030 - Unsupported filling mode
+2026-05-17 11:51:38,381 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 0, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:51:38,382 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:51:38,383 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:51:48,386 | INFO | Signal stored: GOLD SELL @ 2365.60 (confidence=0.50)
+2026-05-17 11:51:48,386 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:51:48,387 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:51:48,388 | WARNING | [FAILED] MT5 Trade failed: 10030 - Unsupported filling mode
+2026-05-17 11:51:48,388 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 1, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 0}
+2026-05-17 11:51:48,391 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:51:48,391 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:07,121 | INFO | MT5 connected to account 515265607
+2026-05-17 11:52:07,122 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:52:07,150 | INFO | Found Gold symbols: ['GBXAUD', 'GOLD', 'GOLDoz', 'GOLDgr', 'GOLDEURO']
+2026-05-17 11:52:07,150 | INFO | Selected symbol: GOLD
+2026-05-17 11:52:07,152 | INFO | XAUUSD Scalper started at 2026-05-17T08:52:07.152187
+2026-05-17 11:52:07,155 | INFO | Signal stored: GOLD SELL @ 2361.58 (confidence=0.50)
+2026-05-17 11:52:07,156 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:52:07,156 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:07,468 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:07,470 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 1, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:07,474 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:07,475 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:17,478 | INFO | Signal stored: GOLD BUY @ 2358.41 (confidence=0.50)
+2026-05-17 11:52:17,479 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:52:17,480 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:17,779 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:17,780 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 0, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:17,782 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:17,782 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:27,787 | INFO | Signal stored: GOLD BUY @ 2356.65 (confidence=0.50)
+2026-05-17 11:52:27,787 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:52:27,789 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:28,087 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:28,088 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 0, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:28,091 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:28,091 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:38,094 | INFO | Signal stored: GOLD SELL @ 2361.50 (confidence=0.50)
+2026-05-17 11:52:38,094 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:52:38,095 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:38,402 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:38,403 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 1, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:38,405 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:38,406 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:48,408 | INFO | Signal stored: GOLD BUY @ 2364.51 (confidence=0.50)
+2026-05-17 11:52:48,409 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:52:48,410 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:48,714 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:48,714 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 0, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:48,717 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:48,717 | INFO | Order request emitted: GOLD BUY 0.01 lots
+2026-05-17 11:52:58,721 | INFO | Signal stored: GOLD SELL @ 2367.58 (confidence=0.50)
+2026-05-17 11:52:58,723 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:52:58,725 | INFO | Symbol GOLD - Trade mode: 4, Visible: True
+2026-05-17 11:52:59,025 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:52:59,025 | WARNING |    Request: {'action': 1, 'symbol': 'GOLD', 'volume': 0.01, 'type': 1, 'price': 4540.37, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:52:59,029 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:52:59,030 | INFO | Order request emitted: GOLD SELL 0.01 lots
+2026-05-17 11:53:23,056 | INFO | MT5 connected to account 515265607
+2026-05-17 11:53:23,057 | WARNING | Failed to select symbol XAUUSD
+2026-05-17 11:53:23,154 | INFO | Tradable symbols (full trading): ['EURUSD', 'GBPUSD', 'USDJPY', 'EURGBP', 'AUDUSD', 'EURJPY', 'GBPJPY', 'USDCAD', 'NZDUSD', 'AUDCHF']
+2026-05-17 11:53:23,155 | INFO | Selected tradable symbol: EURUSD
+2026-05-17 11:53:23,156 | INFO | XAUUSD Scalper started at 2026-05-17T08:53:23.156856
+2026-05-17 11:53:23,160 | INFO | Signal stored: EURUSD BUY @ 2364.45 (confidence=0.50)
+2026-05-17 11:53:23,160 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:53:23,161 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:53:23,474 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:53:23,475 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 0, 'price': 1.16253, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:53:23,478 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:53:23,478 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:53:33,481 | INFO | Signal stored: EURUSD BUY @ 2362.80 (confidence=0.50)
+2026-05-17 11:53:33,482 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:53:33,483 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:53:33,782 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:53:33,783 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 0, 'price': 1.16253, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:53:33,785 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:53:33,785 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:53:43,789 | INFO | Signal stored: EURUSD SELL @ 2357.43 (confidence=0.50)
+2026-05-17 11:53:43,789 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:53:43,790 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:53:44,084 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:53:44,086 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 1, 'price': 1.16248, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:53:44,091 | INFO | Order request emitted: EURUSD SELL 0.01 lots
+2026-05-17 11:53:44,093 | INFO | Order request emitted: EURUSD SELL 0.01 lots
+2026-05-17 11:53:54,096 | INFO | Signal stored: EURUSD BUY @ 2366.67 (confidence=0.50)
+2026-05-17 11:53:54,097 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:53:54,098 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:53:54,508 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:53:54,508 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 0, 'price': 1.16253, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:53:54,510 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:53:54,511 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:54:04,514 | INFO | Signal stored: EURUSD SELL @ 2359.76 (confidence=0.50)
+2026-05-17 11:54:04,514 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:54:04,515 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:54:04,828 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:54:04,828 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 1, 'price': 1.16248, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:54:04,830 | INFO | Order request emitted: EURUSD SELL 0.01 lots
+2026-05-17 11:54:04,830 | INFO | Order request emitted: EURUSD SELL 0.01 lots
+2026-05-17 11:54:14,833 | INFO | Signal stored: EURUSD BUY @ 2366.04 (confidence=0.50)
+2026-05-17 11:54:14,833 | INFO | Signal generated: BUY confidence=0.5 reason=Buy bias (1 vs 0)
+2026-05-17 11:54:14,834 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:54:15,149 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:54:15,150 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 0, 'price': 1.16253, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:54:15,152 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:54:15,152 | INFO | Order request emitted: EURUSD BUY 0.01 lots
+2026-05-17 11:54:25,154 | INFO | Signal stored: EURUSD SELL @ 2355.57 (confidence=0.50)
+2026-05-17 11:54:25,155 | INFO | Signal generated: SELL confidence=0.5 reason=Sell bias (1 vs 0)
+2026-05-17 11:54:25,156 | INFO | Symbol EURUSD - Trade mode: 4, Visible: True
+2026-05-17 11:54:25,469 | WARNING | [FAILED] MT5 Trade failed: 10018 - Market closed
+2026-05-17 11:54:25,470 | WARNING |    Request: {'action': 1, 'symbol': 'EURUSD', 'volume': 0.01, 'type': 1, 'price': 1.16248, 'deviation': 20, 'magic': 234000, 'comment': 'Strategy: raybot-v1', 'type_time': 0, 'type_filling': 1}
+2026-05-17 11:54:25,472 | INFO | Order request emitted: EURUSD SELL 0.01 lots
+2026-05-17 11:54:25,472 | INFO | Order request emitted: EURUSD SELL 0.01 lots

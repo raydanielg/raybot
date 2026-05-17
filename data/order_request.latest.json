@@ -1,0 +1,10 @@
+{
+  "symbol": "EURUSD",
+  "side": "SELL",
+  "action": "SELL",
+  "price": 2355.57,
+  "lot_size": 0.01,
+  "volume": 0.01,
+  "strategy_id": "raybot-v1",
+  "timestamp": "2026-05-17T08:54:25.153420"
+}

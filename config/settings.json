@@ -6,11 +6,11 @@
     "sessions": ["London", "New York"]
   },
   "risk": {
-    "starting_equity": 500.0,
+    "starting_equity": 0.40,
     "base_lot": 0.01,
     "max_lot": 0.05,
     "max_trades": 3,
-    "minimum_confidence": 70.0,
+    "minimum_confidence": 30.0,
     "daily_stop_loss_percent": 10.0,
     "hourly_caution_loss_percent": 5.0,
     "risk_per_trade_percent": 1.0

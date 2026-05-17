@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XAUUSD Scalper Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        @keyframes glow {
+            0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); }
+            50% { box-shadow: 0 0 40px rgba(59, 130, 246, 0.6); }
+        }
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .refreshing { animation: pulse 1s infinite; }
+        .card-glow { animation: glow 3s infinite; }
+        .slide-in { animation: slideIn 0.5s ease-out; }
+        .glass-effect {
+            background: rgba(17, 24, 39, 0.8);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="text-center mb-10 slide-in">
+            <h1 class="text-5xl font-bold mb-2 text-blue-400">XAUUSD Scalper</h1>
+            <p class="text-gray-400 text-lg">Professional Trading System • Real-time Market Analysis</p>
+            <div class="flex justify-center items-center gap-4 mt-4">
+                <div class="flex items-center gap-2">
+                    <span class="w-3 h-3 bg-green-500 rounded-full animate-pulse"></span>
+                    <span class="text-green-400 text-sm font-semibold">System Online</span>
+                </div>
+                <div id="last-update" class="text-gray-500 text-sm">Last update: --</div>
+            </div>
+        </div>
+        
+        <!-- Main Cards -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+            <!-- Signal Card -->
+            <div class="glass-effect rounded-xl p-6 shadow-2xl card-glow slide-in">
+                <div class="flex items-center justify-between mb-4">
+                    <h2 class="text-2xl font-bold text-blue-400">Latest Signal</h2>
+                    <span class="text-xs bg-blue-500/20 text-blue-300 px-3 py-1 rounded-full">Strategy Generated</span>
+                </div>
+                <div id="signal-content" class="space-y-3">
+                    <p class="text-gray-400">Loading...</p>
+                </div>
+            </div>
+            
+            <!-- Equity Card -->
+            <div class="glass-effect rounded-xl p-6 shadow-2xl card-glow slide-in" style="animation-delay: 0.1s;">
+                <div class="flex items-center justify-between mb-4">
+                    <h2 class="text-2xl font-bold text-green-400">Account Equity</h2>
+                    <span class="text-xs bg-green-500/20 text-green-300 px-3 py-1 rounded-full">Live Data</span>
+                </div>
+                <div id="equity-content" class="space-y-3">
+                    <p class="text-gray-400">Loading...</p>
+                </div>
+            </div>
+            
+            <!-- Market Card -->
+            <div class="glass-effect rounded-xl p-6 shadow-2xl card-glow slide-in" style="animation-delay: 0.2s;">
+                <div class="flex items-center justify-between mb-4">
+                    <h2 class="text-2xl font-bold text-purple-400">Market Data</h2>
+                    <span class="text-xs bg-purple-500/20 text-purple-300 px-3 py-1 rounded-full">XAUUSD M1</span>
+                </div>
+                <div id="market-content" class="space-y-3">
+                    <p class="text-gray-400">Loading...</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Stats Row -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+            <div class="glass-effect rounded-lg p-4 text-center slide-in">
+                <div class="text-3xl font-bold text-yellow-400" id="stat-signals">0</div>
+                <div class="text-gray-400 text-sm">Total Signals</div>
+            </div>
+            <div class="glass-effect rounded-lg p-4 text-center slide-in" style="animation-delay: 0.1s;">
+                <div class="text-3xl font-bold text-green-400" id="stat-trades">0</div>
+                <div class="text-gray-400 text-sm">Trades Executed</div>
+            </div>
+            <div class="glass-effect rounded-lg p-4 text-center slide-in" style="animation-delay: 0.2s;">
+                <div class="text-3xl font-bold text-blue-400" id="stat-uptime">0h</div>
+                <div class="text-gray-400 text-sm">System Uptime</div>
+            </div>
+            <div class="glass-effect rounded-lg p-4 text-center slide-in" style="animation-delay: 0.3s;">
+                <div class="text-3xl font-bold text-purple-400" id="stat-confidence">0%</div>
+                <div class="text-gray-400 text-sm">Avg Confidence</div>
+            </div>
+        </div>
+        
+        <!-- Logs Section -->
+        <div class="glass-effect rounded-xl p-6 shadow-2xl mb-8 slide-in">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-2xl font-bold text-red-400">Trading Logs</h2>
+                <div class="flex gap-2">
+                    <button onclick="refreshData()" class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg transition-all duration-200 hover:scale-105 flex items-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                        Refresh
+                    </button>
+                    <button onclick="clearLogs()" class="bg-gray-600 hover:bg-gray-700 px-4 py-2 rounded-lg transition-all duration-200 hover:scale-105 flex items-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                        Clear
+                    </button>
+                </div>
+            </div>
+            <div id="logs-content" class="bg-gray-900/50 rounded-lg p-4 h-64 overflow-y-auto font-mono text-sm border border-gray-700">
+                <p class="text-gray-400">Loading...</p>
+            </div>
+        </div>
+        
+        <!-- Settings Section -->
+        <div class="glass-effect rounded-xl p-6 shadow-2xl slide-in">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="text-2xl font-bold text-yellow-400">System Settings</h2>
+                <span class="text-xs bg-yellow-500/20 text-yellow-300 px-3 py-1 rounded-full">Configuration</span>
+            </div>
+            <div id="settings-content" class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <p class="text-gray-400">Loading...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let signalCount = 0;
+        let tradeCount = 0;
+        let startTime = Date.now();
+        let confidenceSum = 0;
+        let confidenceCount = 0;
+
+        async function fetchData(endpoint) {
+            try {
+                const response = await fetch(endpoint);
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error(`Error fetching ${endpoint}:`, error);
+                return null;
+            }
+        }
+
+        function formatSignal(data) {
+            if (!data || Object.keys(data).length === 0) {
+                return '<p class="text-gray-400">No signal data</p>';
+            }
+            
+            const actionColor = data.action === 'BUY' ? 'text-green-400' : 
+                               data.action === 'SELL' ? 'text-red-400' : 'text-gray-400';
+            const actionBg = data.action === 'BUY' ? 'bg-green-500/20' : 
+                            data.action === 'SELL' ? 'bg-red-500/20' : 'bg-gray-500/20';
+            
+            signalCount++;
+            confidenceSum += parseFloat(data.confidence) || 0;
+            confidenceCount++;
+            
+            return `
+                <div class="flex items-center justify-between mb-3">
+                    <span class="text-3xl font-bold ${actionColor}">${data.action}</span>
+                    <span class="${actionBg} ${actionColor} px-3 py-1 rounded-full text-sm font-semibold">
+                        ${data.confidence}% confidence
+                    </span>
+                </div>
+                <div class="space-y-2 text-sm">
+                    <p class="flex justify-between"><span class="text-gray-400">Price:</span> <span class="font-semibold">$${data.price || 'N/A'}</span></p>
+                    <p class="flex justify-between"><span class="text-gray-400">Lot Size:</span> <span class="font-semibold">${data.lot_size || 'N/A'}</span></p>
+                    <p class="flex justify-between"><span class="text-gray-400">Reason:</span> <span class="text-xs">${data.reason || 'N/A'}</span></p>
+                    <p class="text-gray-500 text-xs mt-2">${new Date(data.timestamp).toLocaleString()}</p>
+                </div>
+            `;
+        }
+
+        function formatEquity(data) {
+            if (!data || Object.keys(data).length === 0) {
+                return '<p class="text-gray-400">No equity data</p>';
+            }
+            
+            const balance = parseFloat(data.balance) || 0;
+            const equity = parseFloat(data.equity) || 0;
+            const profit = equity - balance;
+            const profitColor = profit >= 0 ? 'text-green-400' : 'text-red-400';
+            const profitSign = profit >= 0 ? '+' : '';
+            
+            return `
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Balance</span>
+                        <span class="text-2xl font-bold text-white">$${balance.toFixed(2)}</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Equity</span>
+                        <span class="text-2xl font-bold text-green-400">$${equity.toFixed(2)}</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Profit/Loss</span>
+                        <span class="text-xl font-bold ${profitColor}">${profitSign}$${profit.toFixed(2)}</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Open Positions</span>
+                        <span class="text-lg font-semibold text-yellow-400">${data.open_positions || 0}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        function formatMarket(data) {
+            if (!data || Object.keys(data).length === 0) {
+                return '<p class="text-gray-400">No market data</p>';
+            }
+            
+            const trendColor = data.trend === 'BULLISH' ? 'text-green-400' : 
+                             data.trend === 'BEARISH' ? 'text-red-400' : 'text-gray-400';
+            const trendIcon = data.trend === 'BULLISH' ? 
+                '<svg class="w-5 h-5 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>' : 
+                data.trend === 'BEARISH' ? 
+                '<svg class="w-5 h-5 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"></path></svg>' : 
+                '<svg class="w-5 h-5 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"></path></svg>';
+            
+            return `
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Price</span>
+                        <span class="text-2xl font-bold text-white">$${data.price || 'N/A'}</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-gray-400">Trend</span>
+                        <span class="text-lg font-semibold ${trendColor}">${trendIcon} ${data.trend || 'UNKNOWN'}</span>
+                    </div>
+                    <div class="grid grid-cols-2 gap-2 text-sm">
+                        <div class="bg-gray-700/50 rounded p-2">
+                            <span class="text-gray-400 block text-xs">ATR</span>
+                            <span class="font-semibold">${data.atr || 'N/A'}</span>
+                        </div>
+                        <div class="bg-gray-700/50 rounded p-2">
+                            <span class="text-gray-400 block text-xs">EMA 50</span>
+                            <span class="font-semibold">$${data.ema_50 || 'N/A'}</span>
+                        </div>
+                        <div class="bg-gray-700/50 rounded p-2">
+                            <span class="text-gray-400 block text-xs">EMA 200</span>
+                            <span class="font-semibold">$${data.ema_200 || 'N/A'}</span>
+                        </div>
+                        <div class="bg-gray-700/50 rounded p-2">
+                            <span class="text-gray-400 block text-xs">Source</span>
+                            <span class="font-semibold">${data.source || 'N/A'}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function formatLogs(data) {
+            if (!data || !data.lines || data.lines.length === 0) {
+                return '<p class="text-gray-400">No logs</p>';
+            }
+            
+            return data.lines.map(line => {
+                let colorClass = 'text-gray-300';
+                if (line.includes('ERROR')) colorClass = 'text-red-400';
+                else if (line.includes('WARNING')) colorClass = 'text-yellow-400';
+                else if (line.includes('INFO')) colorClass = 'text-blue-300';
+                else if (line.includes('BUY') || line.includes('SELL')) colorClass = 'text-green-400';
+                
+                return `<p class="${colorClass} hover:bg-gray-800/50 px-1 rounded">${line}</p>`;
+            }).join('');
+        }
+
+        function formatSettings(data) {
+            if (!data || !data.settings) {
+                return '<p class="text-gray-400">No settings data</p>';
+            }
+            
+            const settings = data.settings;
+            return `
+                <div class="bg-gray-700/30 rounded-lg p-3">
+                    <div class="text-xs text-blue-400 mb-2 font-semibold">TRADING</div>
+                    <div class="space-y-1 text-sm">
+                        <p class="flex justify-between"><span class="text-gray-400">Symbol:</span> <span>${settings.trading.symbol}</span></p>
+                        <p class="flex justify-between"><span class="text-gray-400">Timeframe:</span> <span>${settings.trading.timeframe}</span></p>
+                        <p class="flex justify-between"><span class="text-gray-400">Loop:</span> <span>${settings.trading.loop_seconds}s</span></p>
+                    </div>
+                </div>
+                <div class="bg-gray-700/30 rounded-lg p-3">
+                    <div class="text-xs text-green-400 mb-2 font-semibold">RISK</div>
+                    <div class="space-y-1 text-sm">
+                        <p class="flex justify-between"><span class="text-gray-400">Base Lot:</span> <span>${settings.risk.base_lot}</span></p>
+                        <p class="flex justify-between"><span class="text-gray-400">Max Trades:</span> <span>${settings.risk.max_trades}</span></p>
+                        <p class="flex justify-between"><span class="text-gray-400">Min Conf:</span> <span>${settings.risk.minimum_confidence}%</span></p>
+                    </div>
+                </div>
+                <div class="bg-gray-700/30 rounded-lg p-3">
+                    <div class="text-xs text-purple-400 mb-2 font-semibold">AI</div>
+                    <div class="space-y-1 text-sm">
+                        <p class="flex justify-between"><span class="text-gray-400">Model:</span> <span>${settings.ai.model}</span></p>
+                        <p class="flex justify-between"><span class="text-gray-400">Temp:</span> <span>${settings.ai.temperature}</span></p>
+                    </div>
+                </div>
+            `;
+        }
+
+        function updateStats() {
+            document.getElementById('stat-signals').textContent = signalCount;
+            document.getElementById('stat-trades').textContent = tradeCount;
+            
+            const uptime = Math.floor((Date.now() - startTime) / 1000 / 60);
+            if (uptime < 60) {
+                document.getElementById('stat-uptime').textContent = `${uptime}m`;
+            } else {
+                document.getElementById('stat-uptime').textContent = `${Math.floor(uptime / 60)}h`;
+            }
+            
+            const avgConf = confidenceCount > 0 ? (confidenceSum / confidenceCount).toFixed(1) : 0;
+            document.getElementById('stat-confidence').textContent = `${avgConf}%`;
+            
+            document.getElementById('last-update').textContent = `Last update: ${new Date().toLocaleTimeString()}`;
+        }
+
+        async function refreshData() {
+            document.querySelectorAll('#signal-content, #equity-content, #market-content, #logs-content, #settings-content').forEach(el => {
+                el.classList.add('refreshing');
+            });
+
+            try {
+                const [signal, equity, market, logs, settings] = await Promise.all([
+                    fetchData('/api/signals'),
+                    fetchData('/api/equity'),
+                    fetchData('/api/market'),
+                    fetchData('/api/logs'),
+                    fetchData('/api/settings')
+                ]);
+
+                document.getElementById('signal-content').innerHTML = formatSignal(signal);
+                document.getElementById('equity-content').innerHTML = formatEquity(equity);
+                document.getElementById('market-content').innerHTML = formatMarket(market);
+                document.getElementById('logs-content').innerHTML = formatLogs(logs);
+                document.getElementById('settings-content').innerHTML = formatSettings(settings);
+                
+                updateStats();
+            } catch (error) {
+                console.error('Error refreshing data:', error);
+            }
+
+            document.querySelectorAll('.refreshing').forEach(el => {
+                el.classList.remove('refreshing');
+            });
+        }
+
+        function clearLogs() {
+            document.getElementById('logs-content').innerHTML = '<p class="text-gray-400">Logs cleared</p>';
+        }
+
+        refreshData();
+        setInterval(refreshData, 5000);
+    </script>
+</body>
+</html>
